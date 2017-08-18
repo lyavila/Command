@@ -1,8 +1,7 @@
 package co.edu.uelbosque.swii.Calculadora2;
 
+import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import junit.framework.Assert;
 
 public class NewTest {
   @Test

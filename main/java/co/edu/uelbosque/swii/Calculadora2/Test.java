@@ -20,7 +20,7 @@ public class Test {
 
 		resultado = totalN.get(0);
 
-		for (int a = 0; a < numero.length; a++) {
+		/*for (int a = 0; a < numero.length; a++) {
 			if (operador[a].equals("+")) {
 				resultado = Operaciones.suma(resultado, totalN.get(cont));
 				cont = +1;
@@ -35,7 +35,7 @@ public class Test {
 				cont = +1;
 			} else System.out.println("operacion no valida");
 
-		}
+		}*/
 		System.out.println(resultado);
 	}
 	public static void main(String[] args) {
